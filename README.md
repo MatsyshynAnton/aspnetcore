@@ -1,4 +1,4 @@
-ASP.NET Core  
+ASP.NET Cor
 ============
 
 
